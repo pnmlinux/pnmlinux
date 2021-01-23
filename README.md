@@ -8,4 +8,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=akiffeyzioglu&label=Profile%20views&color=0e75b6&style=flat" alt="akiffeyzioglu" />
+<img src="https://komarev.com/ghpvc/?username=pnmlinux&label=Profile%20views&color=0e75b6&style=flat" alt="pnmlinux" />
